@@ -1,0 +1,7 @@
+#Nginx Version
+
+nginx_version: "1.13.4"
+
+#git version
+
+git: "2.7.4"
